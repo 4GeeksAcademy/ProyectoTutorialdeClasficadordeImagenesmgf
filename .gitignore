@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+.env
+.learn/
+.vscode/
+*.pyc
+data/
+.jpg
+.venv/
+__pycache__/
+*.keras
+*.h5
+datasets/image/
+*.keras
